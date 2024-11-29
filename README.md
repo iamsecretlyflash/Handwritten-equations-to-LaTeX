@@ -1,4 +1,4 @@
-The assignmnet had competititve and non-competititve parts. The non-comp part used a standard CNN-LSTM encoder decoder architecture which is described in the assingment statement. 
+The project had competititve and non-competititve parts. The non-comp part used a standard CNN-LSTM encoder decoder architecture which is described in the assingment statement. 
 
 For the competitive part I used ResNeST-50 as my encoder model, and LSTM with Bahdanau Attention as the decoder model. 
 
